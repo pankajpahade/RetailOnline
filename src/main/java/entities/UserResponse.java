@@ -13,7 +13,7 @@ public class UserResponse {
 		return Status;
 	}
 	public void setStatus(String status) {
-		Status = status;
+		Status = status; 
 	}
 
 }
